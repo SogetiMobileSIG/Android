@@ -1,1 +1,1 @@
-## Budget Master - Android
+## Budget Master
