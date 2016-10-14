@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Budget Master</string>
+    <string name="log_out">Log Out</string>
+    <string name="loggedOut">Logged Out!</string>
 </resources>
